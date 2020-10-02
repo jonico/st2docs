@@ -5,7 +5,7 @@ Contents:
 
 .. toctree::
     :maxdepth: 2
-    :caption: Getting Started
+    :caption: Getting Started 
 
     overview
     Install and Configure <install/index>
