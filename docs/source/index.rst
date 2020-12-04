@@ -1,4 +1,4 @@
-|fullname| Documentation
+|fullname| Documentation -my docs
 ========================
 
 Contents:
